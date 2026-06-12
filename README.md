@@ -26,11 +26,11 @@ In this project, cross validation was implemented with k = 5 to evaluate the per
 
 Average Results obtained accross 5 folds:
 
-Average Accuracy: 0.807
-Average Recall: 0.904
-Average Precision: 0.439
-F1 Score: 0.591
-AUC: 0.846
+Average Accuracy: 0.807  
+Average Recall: 0.904  
+Average Precision: 0.439  
+F1 Score: 0.591  
+AUC: 0.846  
 
 **** This project/model is just for educational purposes and can’t be used for medical screening or anything medical/health related. ***
 
